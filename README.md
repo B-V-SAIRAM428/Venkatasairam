@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Venkata Sairam.B
-- 👀 I’m interested in Embedded Systems and Python
-- 🌱 I’m currently learning Embedded System
+- 👀 I’m interested in VSLI design and Python
+- 🌱 I’m currently learning RTL design and Verification
 - 📫 How to reach me venkatasairam428@gmail.com
 - 😄 Pronouns: sai
 
