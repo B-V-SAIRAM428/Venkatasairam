@@ -2,7 +2,7 @@
 - 👀 I’m interested in VSLI design and Python
 - 🌱 I’m currently learning RTL design and Verification
 - 📫 How to reach me venkatasairam428@gmail.com
-- 😄 Pronouns: sai
+- 😄 Pronouns: Sai
 
 <!---
 B-V-SAIRAM428/B-V-SAIRAM428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
